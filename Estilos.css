@@ -224,3 +224,7 @@ footer {
   display: flex;
   justify-content: space-between;
 }
+
+.texto {
+  font-size: 1rem;
+}
